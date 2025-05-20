@@ -9,7 +9,7 @@
 - Helps identify areas for improvement.
 
 ## 3. Resolution Time Distribution
-- Box plot showing variation by system and priority.
+- Bar chart showing variation by system and priority.
 
 ## Filters:
 - Date Range
