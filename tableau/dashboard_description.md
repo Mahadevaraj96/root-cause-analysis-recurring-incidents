@@ -11,9 +11,6 @@
 ## 3. Resolution Time Distribution
 - Box plot showing variation by system and priority.
 
-## 4. Impacted Systems
-- Heatmap indicating systems with high incident counts.
-
 ## Filters:
 - Date Range
 - Priority
