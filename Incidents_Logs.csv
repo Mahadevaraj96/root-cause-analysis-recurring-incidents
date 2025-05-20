@@ -1,0 +1,101 @@
+Ticket_ID,Date,Category,Subcategory,Service,Affected_System,Priority,Status,Resolution_Time_Hours
+INC1000,12-01-2025,Security,Patch,Internet,HP Printer,P4,Resolved,18.2
+INC1001,08-01-2025,Application,Login,Email,File Server,P1,Closed,21.8
+INC1002,30-01-2025,Security,Antivirus,Email,Exchange,P1,Open,10.8
+INC1003,20-01-2025,Security,Antivirus,Support,Exchange,P4,Open,16.7
+INC1004,17-02-2025,Hardware,Monitor,Email,HP Printer,P3,In Progress,15.7
+INC1005,14-01-2025,Security,Patch,Internet,Firewall,P3,Open,21
+INC1006,21-01-2025,Network,WiFi,Support,File Server,P4,Closed,5.4
+INC1007,12-02-2025,Network,DNS,Internet,File Server,P4,Open,13.8
+INC1008,19-01-2025,Hardware,Laptop,Storage,Router,P1,Resolved,6.5
+INC1009,05-02-2025,Security,Antivirus,Storage,Router,P1,Open,17
+INC1010,25-01-2025,Application,Crash,Storage,Exchange,P1,Open,14.6
+INC1011,13-02-2025,Network,DNS,Support,Router,P1,Closed,21.8
+INC1012,21-02-2025,Application,Slow Response,Support,Router,P1,Open,18.5
+INC1013,11-01-2025,Hardware,Monitor,Support,HP Printer,P3,Open,14.2
+INC1014,27-02-2025,Network,VPN,Internet,Exchange,P4,Resolved,12.6
+INC1015,31-01-2025,Network,WiFi,Internet,Firewall,P4,Open,23.2
+INC1016,07-01-2025,Security,Access Control,Storage,HP Printer,P4,Open,12.7
+INC1017,21-02-2025,Security,Access Control,Storage,Firewall,P2,In Progress,16.1
+INC1018,04-01-2025,Hardware,Monitor,Support,Exchange,P2,Closed,22
+INC1019,01-01-2025,Application,Crash,Internet,Exchange,P2,In Progress,1.6
+INC1020,13-01-2025,Application,Login,Internet,Exchange,P4,In Progress,13.3
+INC1021,09-01-2025,Application,Login,Email,Firewall,P4,In Progress,3.4
+INC1022,15-02-2025,Security,Antivirus,Storage,Router,P2,Open,10.3
+INC1023,02-01-2025,Application,Login,Support,HP Printer,P2,Closed,24
+INC1024,25-02-2025,Hardware,Laptop,Internet,HP Printer,P2,Closed,11
+INC1025,26-02-2025,Security,Patch,Storage,Router,P3,Closed,6.6
+INC1026,13-02-2025,Network,VPN,Support,Firewall,P4,Resolved,15.1
+INC1027,07-02-2025,Hardware,Monitor,Internet,HP Printer,P1,Open,8.6
+INC1028,20-02-2025,Hardware,Printer,Storage,File Server,P1,Resolved,16.1
+INC1029,22-01-2025,Application,Slow Response,Internet,Exchange,P2,Open,11.4
+INC1030,11-01-2025,Hardware,Monitor,Storage,Exchange,P3,Resolved,4.5
+INC1031,01-01-2025,Network,WiFi,Internet,Firewall,P4,Open,16.7
+INC1032,19-01-2025,Security,Patch,Storage,HP Printer,P2,In Progress,22.7
+INC1033,16-01-2025,Application,Crash,Email,Router,P2,Resolved,18.5
+INC1034,13-01-2025,Application,Slow Response,Internet,Router,P1,Resolved,20.7
+INC1035,01-02-2025,Application,Crash,Email,Firewall,P2,Open,7.3
+INC1036,24-01-2025,Hardware,Monitor,Storage,Router,P2,Open,4.7
+INC1037,10-01-2025,Application,Crash,Internet,Firewall,P2,Closed,21.8
+INC1038,06-01-2025,Application,Login,Internet,Firewall,P1,Open,19.7
+INC1039,29-01-2025,Hardware,Printer,Support,Firewall,P1,In Progress,11.1
+INC1040,22-01-2025,Application,Slow Response,Support,Exchange,P2,Closed,12.1
+INC1041,02-01-2025,Network,DNS,Email,Firewall,P2,Resolved,21
+INC1042,30-01-2025,Application,Slow Response,Support,HP Printer,P2,In Progress,4.5
+INC1043,05-02-2025,Hardware,Monitor,Support,File Server,P1,In Progress,21.8
+INC1044,02-02-2025,Hardware,Laptop,Email,Firewall,P1,Closed,11.6
+INC1045,20-02-2025,Network,WiFi,Email,Router,P1,Open,15.1
+INC1046,08-02-2025,Hardware,Printer,Internet,Firewall,P4,Resolved,18
+INC1047,20-02-2025,Hardware,Laptop,Email,Router,P4,Resolved,23.5
+INC1048,15-02-2025,Network,VPN,Support,Exchange,P1,Open,14.1
+INC1049,22-01-2025,Network,DNS,Storage,Firewall,P4,Resolved,22.8
+INC1050,15-02-2025,Network,DNS,Email,HP Printer,P4,Resolved,9.7
+INC1051,28-01-2025,Hardware,Printer,Support,Router,P1,Open,1.4
+INC1052,24-01-2025,Hardware,Printer,Support,File Server,P1,In Progress,5.8
+INC1053,06-01-2025,Network,DNS,Internet,HP Printer,P2,Open,11.7
+INC1054,11-01-2025,Hardware,Monitor,Support,Exchange,P4,Open,12.9
+INC1055,04-02-2025,Network,VPN,Storage,Firewall,P4,In Progress,7.6
+INC1056,30-01-2025,Application,Slow Response,Storage,Firewall,P3,Closed,11.8
+INC1057,27-02-2025,Application,Slow Response,Storage,HP Printer,P2,Closed,6.8
+INC1058,18-02-2025,Hardware,Printer,Email,Router,P4,Open,6.2
+INC1059,27-01-2025,Hardware,Laptop,Support,HP Printer,P3,In Progress,1.5
+INC1060,26-01-2025,Network,WiFi,Email,Router,P4,Open,4.8
+INC1061,05-01-2025,Application,Login,Internet,Firewall,P2,Closed,1.5
+INC1062,02-01-2025,Network,VPN,Internet,Router,P2,Resolved,2.3
+INC1063,07-02-2025,Hardware,Printer,Email,HP Printer,P3,Open,8.7
+INC1064,21-02-2025,Application,Login,Internet,HP Printer,P1,In Progress,10.2
+INC1065,06-02-2025,Network,VPN,Email,HP Printer,P2,Open,6.3
+INC1066,30-01-2025,Hardware,Printer,Email,Router,P4,Open,9.2
+INC1067,19-01-2025,Network,WiFi,Email,Router,P3,Closed,21.1
+INC1068,18-02-2025,Application,Slow Response,Support,Firewall,P1,Open,18.4
+INC1069,24-02-2025,Security,Antivirus,Support,Router,P4,Resolved,17.8
+INC1070,10-01-2025,Security,Antivirus,Email,Router,P3,In Progress,2.2
+INC1071,15-02-2025,Application,Login,Internet,Firewall,P3,Closed,16.9
+INC1072,01-03-2025,Network,WiFi,Storage,Firewall,P4,Open,2.9
+INC1073,02-03-2025,Application,Slow Response,Support,Firewall,P2,Closed,7.9
+INC1074,02-03-2025,Hardware,Printer,Support,Exchange,P3,Closed,20.5
+INC1075,17-02-2025,Security,Access Control,Support,HP Printer,P4,Closed,6.2
+INC1076,02-02-2025,Security,Access Control,Support,HP Printer,P4,In Progress,21.6
+INC1077,01-03-2025,Security,Access Control,Storage,Exchange,P2,Open,22.8
+INC1078,26-02-2025,Network,DNS,Email,File Server,P2,Resolved,14.9
+INC1079,06-01-2025,Application,Crash,Support,HP Printer,P3,Resolved,2.3
+INC1080,19-01-2025,Network,WiFi,Internet,Firewall,P3,Closed,19.2
+INC1081,13-01-2025,Application,Slow Response,Internet,Firewall,P4,Resolved,15.1
+INC1082,29-01-2025,Hardware,Monitor,Email,HP Printer,P2,In Progress,8.3
+INC1083,23-01-2025,Security,Patch,Internet,Firewall,P1,Closed,21.3
+INC1084,11-02-2025,Network,DNS,Internet,HP Printer,P3,In Progress,19.2
+INC1085,25-01-2025,Security,Patch,Storage,Router,P1,Open,15.8
+INC1086,09-01-2025,Application,Slow Response,Internet,Firewall,P1,Resolved,11.6
+INC1087,06-01-2025,Security,Antivirus,Support,Exchange,P1,Closed,9
+INC1088,11-01-2025,Application,Login,Support,Exchange,P4,Resolved,6.4
+INC1089,27-01-2025,Hardware,Laptop,Internet,File Server,P3,Closed,17.8
+INC1090,29-01-2025,Hardware,Monitor,Internet,HP Printer,P1,Resolved,4.2
+INC1091,22-01-2025,Security,Antivirus,Email,File Server,P4,Open,1.1
+INC1092,07-01-2025,Network,WiFi,Storage,File Server,P1,In Progress,24
+INC1093,12-01-2025,Hardware,Monitor,Storage,Firewall,P2,Open,9.6
+INC1094,02-02-2025,Network,WiFi,Storage,Router,P2,Resolved,13.3
+INC1095,03-02-2025,Security,Patch,Storage,Router,P3,Open,20.5
+INC1096,18-02-2025,Security,Access Control,Internet,Exchange,P2,Closed,1.6
+INC1097,24-01-2025,Application,Crash,Email,File Server,P3,In Progress,5.9
+INC1098,07-02-2025,Network,DNS,Support,Exchange,P2,Closed,17.2
+INC1099,01-03-2025,Security,Patch,Email,Firewall,P4,In Progress,20.1
